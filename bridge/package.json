@@ -39,7 +39,7 @@
     "@thinkanddev/hardhat-erc1820-rsk": "^0.1.2",
     "@truffle/compile-common": "^0.7.15",
     "chalk": "^4.1.0",
-    "hardhat-contract-sizer": "^2.3.0",
+    "hardhat-contract-sizer": "^2.8.0",
     "hardhat-deploy": "^0.9.24",
     "hardhat-gas-reporter": "^1.0.6",
     "npm-force-resolutions": "0.0.10",
